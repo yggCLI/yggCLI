@@ -1,16 +1,54 @@
-## Hi there 👋
+![Anime GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhxN3E0Nm0wbDg5azZ2OGRsanpjd3E2YjV5Yzh6aHoweXJzN29qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uLYyeL5TV7QcnRrpKK/giphy.webp)
 
-<!--
-**kyoo-log/kyoo-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Koko's GitHub Profile! 🚀✨
 
-Here are some ideas to get you started:
+Hello there! I'm **Kyoo-log**, a passionate developer with a love for unraveling the wild ideas into code. 🌟  
+Feel free to explore my repositories and let's connect to share knowledge and ideas! 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoo-log&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-log&layout=compact&theme=tokyonight)
+
+---
+
+## 💻 Tech Stack
+Here are some of the technologies I work with:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🎯 Goals & Interests
+- 🌱 Currently learning: Backend Development, Data Engineering, and Rust Programming.
+- 🚀 Aiming to master Fullstack Development and build a tech startup.
+- 💡 Always curious about AI, Big Data, and Machine Learning.
+
+---
+
+## 🌟 Fun Facts About Me
+- I’m a big fan of **Bleach**, especially Shunsui Kyoraku that inspire creativity! 🎥✨
+- I love exploring **Machine Learning** and building cool projects.
+- When I'm not coding, you'll find me playing soccer or binge-watching my favorite shows. ⚽🎮
+
+---
+
+## 📫 Let's Connect!
+Feel free to reach out or check out my socials below:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/movahmi)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/movahmi)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kyo91_)
+
+---
+
+## ✨ Dynamic Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+Thanks for stopping by! 🌟 Don't forget to check out my projects below! 😄
