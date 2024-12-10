@@ -52,5 +52,14 @@ Feel free to reach out or check out my socials below:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 🔥 Organizations I'm a part of:
+
+[![Python](https://img.shields.io/badge/Organization-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)  
+[![React](https://img.shields.io/badge/Organization-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/facebook/react)  
+[![TensorFlow](https://img.shields.io/badge/Organization-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)  
+[![Node.js](https://img.shields.io/badge/Organization-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nodejs/node)
+
+─────────────────────────────────────────────────────────────────────
+
 
 Thanks for stopping by! 🌟 Don't forget to check out my projects below! 😄
