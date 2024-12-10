@@ -1,10 +1,13 @@
 ![Anime GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhxN3E0Nm0wbDg5azZ2OGRsanpjd3E2YjV5Yzh6aHoweXJzN29qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uLYyeL5TV7QcnRrpKK/giphy.webp)
 
-# Welcome to Koko's GitHub Profile! 🚀✨
+# ──────────────────────────────────────────────────────────────────────
+#                         キョーのGitHubプロファイルへようこそ！🚀✨
+# ──────────────────────────────────────────────────────────────────────
 
-Hello there! I'm **Kyoo-log**, a passionate developer with a love for unraveling the wild ideas into code. 🌟  
-Feel free to explore my repositories and let's connect to share knowledge and ideas! 💡
+こんにちは！私は**キョー (Kyoo-Log)**、コーディング、データ、そして新しい技術を探求することが大好きな開発者です。🌟  
+リポジトリをぜひご覧ください！知識やアイデアを共有するために気軽に繋がりましょう！💡
 
+─────────────────────────────────────────────────────────────────────
 ---
 
 ## 📊 GitHub Stats
@@ -26,7 +29,7 @@ Here are some of the technologies I work with:
 
 ## 🎯 Goals & Interests
 - 🌱 Currently learning: Backend Development, Data Engineering, and Rust Programming.
-- 🚀 Aiming to master Fullstack Development and build a tech startup.
+- 🚀 Aiming to master Software Engineer and build a tech startup.
 - 💡 Always curious about AI, Big Data, and Machine Learning.
 
 ---
@@ -42,8 +45,7 @@ Here are some of the technologies I work with:
 Feel free to reach out or check out my socials below:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/movahmi)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/movahmi)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kyo91_)
-
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyo91_)
 ---
 
 ## ✨ Dynamic Quote
