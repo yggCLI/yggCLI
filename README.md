@@ -1,4 +1,4 @@
-![Anime GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhxN3E0Nm0wbDg5azZ2OGRsanpjd3E2YjV5Yzh6aHoweXJzN29qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uLYyeL5TV7QcnRrpKK/giphy.webp)
+![Anime GIF](https://media1.tenor.com/m/QXofQ7M8os4AAAAd/shunsui-kyoraku.gif)
 
 # ──────────────────────────────────────────────────────────────────────
 #                         キョーのGitHubプロファイルへようこそ！🚀✨
