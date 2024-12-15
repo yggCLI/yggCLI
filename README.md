@@ -10,9 +10,18 @@
 ─────────────────────────────────────────────────────────────────────
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoo-log&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-log&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoo-log&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-log&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)  
+
+---
+### ⚙️ Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyoo-log&theme=tokyonight&hide_border=true)
+
+---
+### 🏆 Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=kyoo-log&theme=tokyonight&no-frame=true&column=7)
+
 
 ---
 
