@@ -19,7 +19,7 @@ I’m **Kyoo-log**, a passionate self-taught developer specializing in:
      - User authentication (JWT-based).  
      - CRUD operations for managing user profiles.  
      - Deployed on AWS Lambda.  
-   - **Link:** [Explore the Project](backend/project1_fastapi/)  
+   - **Link:** [FastAPI CRUD Apps](https://github.com/kyoo-log/FastAPI-CRUD-Application)  
 
 2. **GraphQL API**  
    - **Stack:** Node.js, Apollo Server, MongoDB  
