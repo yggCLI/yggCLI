@@ -133,5 +133,3 @@ I believe technology is the bridge to solving real-world problems, and my goal i
 </p>
 
 ---
-
-## 🚀 Let’s Build the Future Together!  
