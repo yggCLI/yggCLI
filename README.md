@@ -1,81 +1,137 @@
-![Anime GIF](https://media1.tenor.com/m/QXofQ7M8os4AAAAd/shunsui-kyoraku.gif)
+# 🌟 ようこそ私のポートフォリオへ: バックエンド | クラウド | 機械学習 🌟  
 
-# ──────────────────────────────────────────────────────────────────────
-#                         キョーのGitHubプロファイルへようこそ！🚀✨
-# ──────────────────────────────────────────────────────────────────────
+こんにちは！    
 
-こんにちは！私は**キョー (Kyoo-Log)**、コーディング、データ、そして新しい技術を探求することが大好きな開発者です。🌟  
-リポジトリをぜひご覧ください！知識やアイデアを共有するために気軽に繋がりましょう！💡
-
-─────────────────────────────────────────────────────────────────────
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoo-log&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-log&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)  
+I’m **Kyoo-log**, a passionate self-taught developer specializing in:  
+- 🧰 **Backend Development:** APIs, data pipelines, and system design.  
+- ☁️ **Cloud Computing:** AWS, GCP, and serverless solutions.  
+- 🤖 **Machine Learning:** Building models that turn data into actionable insights.  
 
 ---
 
-## 💻 Tech Stack  
+## 📂 Projects Overview  
 
-Here are the technologies I wield in the battlefields of cyber, backend, and AI:  
+### 🧰 **Backend Development**  
+1. **FastAPI CRUD Application**  
+   - **Stack:** Python, FastAPI, PostgreSQL  
+   - **Description:** A robust REST API with JWT authentication and database integration.  
+   - **Features:**  
+     - User authentication (JWT-based).  
+     - CRUD operations for managing user profiles.  
+     - Deployed on AWS Lambda.  
+   - **Link:** [Explore the Project](backend/project1_fastapi/)  
 
-| **Languages**   | **Frameworks & Tools**      | **Cyber/Cloud**         | **AI & Data**         |
-|------------------|-----------------------------|--------------------------|-----------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FE5184?style=for-the-badge&logo=huggingface&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-
----
-
-## 🎯 Goals & Interests  
-
-- 🌱 **Currently Exploring:**  
-  - Hacking the **cybersec layer** 🛡️.  
-  - Mastering the **backend art** ⚙️.  
-  - Innovating in **AI + ML** 🤖.  
-
-- 🚀 **Future Dreams:**  
-  - Build a **next-gen AI startup** 🚀.  
-  - Join elite tech societies 🌌.  
-  - Achieve balance between **creative flair** and **logical power** ✨.  
-
-- 🎮 **Fun Adventures:**  
-  - Tuning up my Linux environments ⚡.  
-  - Compiling C and Rust binaries like a ninja 🐱‍👤.  
-  - Building personal AI assistants for fun! 🛠️  
+2. **GraphQL API**  
+   - **Stack:** Node.js, Apollo Server, MongoDB  
+   - **Description:** A GraphQL API handling user queries efficiently with real-time updates.  
+   - **Link:** [Explore the Project](backend/project2_graphql/)  
 
 ---
 
-## 🌟 Fun Facts About Me  
-- I’m a **huge fan of Bleach**. Shunsui Kyoraku’s calmness inspires my coding.  
-- I secretly treat **coding errors** like solving puzzles. 🔍  
-- Outside coding? I’m playing soccer or overthinking existential AI problems. ⚽🧠  
+### ☁️ **Cloud Projects**  
+1. **Serverless Architecture**  
+   - **Stack:** AWS Lambda, DynamoDB, API Gateway  
+   - **Description:** Deploy a scalable REST API with serverless architecture.  
+   - **Features:**  
+     - Fully serverless using AWS ecosystem.  
+     - Cost-efficient and scalable infrastructure.  
+   - **Link:** [Explore the Project](cloud/serverless/)  
+
+2. **CI/CD Pipeline**  
+   - **Stack:** GitHub Actions, Docker, AWS ECS  
+   - **Description:** Automate app deployment with CI/CD integration for seamless updates.  
+   - **Features:**  
+     - Build and deploy Dockerized apps to AWS ECS.  
+     - Load balancing using ECS clusters.  
+   - **Link:** [Explore the Project](cloud/ci_cd_pipeline/)  
 
 ---
 
-## 📫 Let's Connect!  
-Want to collab? Hit me up here:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/movahmi)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/movahmi)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyo91_)  
+### 🤖 **Machine Learning Projects**  
+1. **Predictive Model for Sales**  
+   - **Stack:** Python, Scikit-learn, Pandas  
+   - **Description:** A regression model predicting sales revenue using historical data.  
+   - **Features:**  
+     - Linear regression with hyperparameter tuning.  
+     - Visualized results for better insights.  
+   - **Link:** [Explore the Project](machine_learning/ml_project1/)  
+
+2. **Tweet Sentiment Analysis**  
+   - **Stack:** Python, TensorFlow, NLTK  
+   - **Description:** Classify tweets into positive, neutral, or negative sentiments.  
+   - **Features:**  
+     - Preprocessing text data (tokenization, stemming).  
+     - TensorFlow model for sentiment classification.  
+   - **Link:** [Explore the Project](machine_learning/ml_project2/)  
 
 ---
 
-## 🔥 Organizations I'm a Part Of:  
+## 🛠️ Technical Stack  
 
-[![Python](https://img.shields.io/badge/Organization-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)  
-[![TensorFlow](https://img.shields.io/badge/Organization-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)  
-[![Node.js](https://img.shields.io/badge/Organization-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nodejs/node)  
-[![Rust](https://img.shields.io/badge/Organization-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang)  
-[![Linux Foundation](https://img.shields.io/badge/Organization-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linuxfoundation.org)  
-[![Kali Linux](https://img.shields.io/badge/Organization-KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)  
-[![OWASP](https://img.shields.io/badge/Organization-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Languages</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL"></a>
+      </td>
+      <td align="center">
+        <b>Frameworks</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Cloud & DevOps</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"></a>
+      </td>
+      <td align="center">
+        <b>Machine Learning</b><br>
+        <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn"></a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 📜 About Me  
+
+私は Kyoo-log です。  
+バックエンド開発、クラウドコンピューティング、そして機械学習を愛する自己学習型エンジニアです！  
+
+### 🌟 Why I Code  
+"コードを書くことは未来を創造すること。"  
+(*Coding is creating the future.*)  
+I believe technology is the bridge to solving real-world problems, and my goal is to be a part of this journey.  
 
 ---
-# 🔗 Check Out My Repos Below! 🌟  
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/kyoo-log">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/movahmi">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/kyo91_">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:movahmi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+## 🚀 Let’s Build the Future Together!  
