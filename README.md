@@ -15,60 +15,75 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoo-log&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)  
 
 ---
-### ⚙️ Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyoo-log&theme=tokyonight&hide_border=true)
 
----
-### 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=kyoo-log&theme=tokyonight&no-frame=true&column=7)
+## 💻 Tech Stack  
 
+Here are the technologies I wield in the battlefields of cyber, backend, and AI:  
 
----
-
-## 💻 Tech Stack
-Here are some of the technologies I work with:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+| **Languages**   | **Frameworks & Tools**      | **Cyber/Cloud**         | **AI & Data**         |
+|------------------|-----------------------------|--------------------------|-----------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FE5184?style=for-the-badge&logo=huggingface&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 
 ---
 
-## 🎯 Goals & Interests
-- 🌱 Currently learning: Backend Development, Data Engineering, and Rust Programming.
-- 🚀 Aiming to master Software Engineer and build a tech startup.
-- 💡 Always curious about AI, Big Data, and Machine Learning.
+## 🎯 Goals & Interests  
+
+- 🌱 **Currently leveling up** in:  
+  🛠️ Backend Wizardry, 🛡️ Cybersecurity Sorcery, ⚙️ AI-Powered Engineering Magic, and 🐧 Linux Mastery.  
+
+- 🚀 **Mission:** To craft the **future of tech** by combining **AI brilliance**, **network mastery**, and **backend supremacy** to build a tech empire. (Think of it as *Shunsui-style creativity meets cutting-edge innovation*).  
+
+- 💡 **Always Curious About:**  
+  - Unlocking **AI mysteries**.  
+  - Learning **exploit-proof cybersecurity** techniques.  
+  - Pioneering **Big Data pipelines**.  
+  - Automating boring stuff, but keeping the **cool parts**.  
+
+- 🎯 **Ultimate Goal:** To dominate the fields of **AI**, **Cybersecurity**, and **Backend Engineering**—and have fun while doing it.  
 
 ---
 
-## 🌟 Fun Facts About Me
-- I’m a big fan of **Bleach**, especially Shunsui Kyoraku that inspire creativity! 🎥✨
-- I love exploring **Machine Learning** and building cool projects.
-- When I'm not coding, you'll find me playing soccer or binge-watching my favorite shows. ⚽🎮
+## 🌟 Fun Facts About Me  
+
+- **Anime inspiration:** A *Bleach* fan who thrives on creativity like Shunsui Kyoraku. 🎥✨  
+- **Passions:** Building cool projects that bridge **AI**, **backend** systems, and **cyber-defense**.  
+- **Hobbies:** Soccer ⚽, gaming 🎮, and dissecting tech memes for wisdom.  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect!  
+
 Feel free to reach out or check out my socials below:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/movahmi)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/movahmi)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyo91_)
----
-
-## ✨ Dynamic Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyo91_)  
 
 ---
-## 🔥 Organizations I'm a part of:
 
-[![Python](https://img.shields.io/badge/Organization-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)  
-[![React](https://img.shields.io/badge/Organization-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/facebook/react)  
-[![TensorFlow](https://img.shields.io/badge/Organization-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)  
-[![Node.js](https://img.shields.io/badge/Organization-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nodejs/node)
+## 🔥 Organizations & Clubs  
 
-─────────────────────────────────────────────────────────────────────
+- 🚩 **AI Enthusiast Clubs:**  
+  [![PyTorch](https://img.shields.io/badge/Organization-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/pytorch/pytorch)  
+  [![TensorFlow](https://img.shields.io/badge/Organization-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)  
+  [![Hugging Face](https://img.shields.io/badge/Organization-HuggingFace-FE5184?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/huggingface/transformers)  
 
+- 🖥️ **Coding Powerhouses:**  
+  [![Rust](https://img.shields.io/badge/Organization-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang/rust)  
+  [![C++ Alliance](https://img.shields.io/badge/Organization-C++Alliance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/cplusplus)  
 
-Thanks for stopping by! 🌟 Don't forget to check out my projects below! 😄
+- 🌐 **Backend & Cybersecurity Hubs:**  
+  [![Node.js](https://img.shields.io/badge/Organization-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nodejs/node)  
+  [![Docker](https://img.shields.io/badge/Organization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker/docker-ce)  
+  [![Kali Linux](https://img.shields.io/badge/Organization-KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/kalilinux)  
+
+---
+
+## ✨ Dynamic Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+Thanks for stopping by! 🌟 Don't forget to check out my projects below! 😄  
