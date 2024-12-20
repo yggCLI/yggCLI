@@ -24,7 +24,7 @@ I’m **Kyoo-log**, a passionate self-taught developer specializing in:
 2. **GraphQL API**  
    - **Stack:** Node.js, Apollo Server, MongoDB  
    - **Description:** A GraphQL API handling user queries efficiently with real-time updates.  
-   - **Link:** [Explore the Project](backend/project2_graphql/)  
+   - **Link:** [GraphQL API](https://github.com/kyoo-log/GraphQL-API-Project)  
 
 ---
 
