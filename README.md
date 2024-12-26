@@ -1,4 +1,4 @@
-# kyoo-log
+# yggCLI
 
 ```bash
 #!/bin/bash
