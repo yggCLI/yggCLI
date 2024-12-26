@@ -22,5 +22,5 @@ LEARNING=(
 $ cat /etc/contact
 [ Contact ]
 email: yggwach@gmail.com
-X: @yggCLI
+X    : @yggCLI
 ```
