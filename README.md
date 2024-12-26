@@ -6,13 +6,13 @@
 [OK] Terminal initialized
 
 $ whoami
-kyoo-log
+Just say, in unambigous words, what kind of patch you would accept, if any.
 
 $ cat /etc/skills
 PRIMARY_SHELL="bash/zsh"
 LEARNING=(
   python
-  javascript
+  js/ts
   ruby
   rust
   haskell
