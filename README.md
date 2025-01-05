@@ -11,8 +11,6 @@ Just say, in unambigous words, what kind of patch you would accept, if any.
 $ cat /etc/skills
 PRIMARY_SHELL="bash/zsh"
 LEARNING=(
-  C
-  js/ts
   go
   elixir
   rust
