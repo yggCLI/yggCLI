@@ -11,12 +11,13 @@ Just say, in unambigous words, what kind of patch you would accept, if any.
 $ cat /etc/skills
 PRIMARY_SHELL="bash/zsh"
 LEARNING=(
-  python
+  C
   js/ts
-  ruby
+  go
+  elixir
   rust
   haskell
-  C
+  zig
 )
 
 $ cat /etc/contact
